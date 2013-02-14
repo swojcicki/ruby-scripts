@@ -1,5 +1,5 @@
 #!/usr/bin/ruby
-#bombelkowy
+#babelkowy
 d = [5,1,2,3,4,6]
 n = d.length
 puts d
