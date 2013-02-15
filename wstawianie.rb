@@ -1,6 +1,6 @@
 #!/usr/bin/ruby
 #wstawienie
-d = ARGV
+d = ARGV.collect{|i| i.to_i}
 n = d.length
 puts d
 puts "--"
