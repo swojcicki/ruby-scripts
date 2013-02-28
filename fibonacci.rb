@@ -7,7 +7,7 @@ for i in 3..n
   k += j
   j = k - j
 end
-if n == 1
+if n < 2
   puts j
 else
   puts k
